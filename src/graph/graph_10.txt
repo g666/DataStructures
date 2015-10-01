@@ -1,0 +1,14 @@
+Vertices
+a
+b
+c
+d
+e
+Edges
+a;b;1
+b;d;4
+a;c;6
+a;e;2
+e;c;5
+c;b;3
+c;d;2

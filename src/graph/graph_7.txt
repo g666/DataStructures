@@ -1,0 +1,17 @@
+Vertices
+s
+t
+x
+y
+z
+Edges
+s;t;6
+t;x;5
+x;t;-2
+s;y;7
+t;y;8
+y;z;9
+z;s;2
+t;z;-4
+y;x;-3
+z;x;7
